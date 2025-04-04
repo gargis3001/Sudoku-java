@@ -21,9 +21,4 @@ A desktop-based **Sudoku game** built in **Java** using **IntelliJ IDEA**. This 
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/Sudoku-Java.git
-cd Sudoku-Java
