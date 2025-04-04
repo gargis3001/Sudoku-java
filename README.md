@@ -7,8 +7,8 @@ A desktop-based **Sudoku game** built in **Java** using **IntelliJ IDEA**. This 
 ## 📌 Features
 
 - ✅ 9x9 Sudoku board
-- 🧠 Input validation (no duplicate numbers in row, column, or 3x3 box)
-- 🎮 Interactive GUI (if GUI is implemented using JavaFX)
+- 🧠 Input validation 
+- 🎮 Interactive GUI 
 
 ---
 
