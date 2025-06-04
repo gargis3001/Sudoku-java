@@ -1,6 +1,6 @@
 # 🧩 Java Sudoku Game
 
-A desktop-based **Sudoku game** built in **Java** using **IntelliJ IDEA**. This project allows users to play Sudoku.
+A desktop-based **Sudoku game** built in **Java**. This project allows users to play Sudoku.
 
 ---
 
